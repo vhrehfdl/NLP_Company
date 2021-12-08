@@ -1,7 +1,7 @@
 # NLP 관련 회사
   
 ## Introduction
-- 자연어처리 직무를 다루는 회사 리스트를 정리하기 위해 시작했습니다.
+- 자연어처리 직무를 다루는 회사 리스트를 정리하기 위해 시작했습니다. 현재 작성 중입니다.
 - 김수환님의 [nlp-startups](https://github.com/sooftware/k-startups?fbclid=IwAR252_GBSgCV2n3xRnVWWNRnd-Sw1KBVeV_iW9v3E1Niqem8eU0bHf83CWY) 형식을 참고했습니다.
   
 ## Company
